@@ -5,7 +5,6 @@
 alert('Benvenuto al gioco dei dadi, sei pronto a sfidare la sorte?');
 
 // Create one number for User and one for the Computer
-// Math.floor((Math.random() * 10) + 1);
 const userNumber = Math.floor((Math.random() * 6) + 1);
 const computerNumber = Math.floor((Math.random() * 6) + 1);
 
